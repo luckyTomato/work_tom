@@ -21,7 +21,11 @@ This is `code`
 
 [This is a google link](https://google.com)
 
+<<<<<<< HEAD
 ![Google log](./google_log.JPG)
+=======
+![Google log](/google_log.JPG)
+>>>>>>> 6e3d49404fee9b234a0d1466d4d8318f6165319a
 
 
 ```js
