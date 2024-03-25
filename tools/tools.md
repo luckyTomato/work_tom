@@ -1,0 +1,4 @@
+# checklist
+- names
+- history
+- thinking
