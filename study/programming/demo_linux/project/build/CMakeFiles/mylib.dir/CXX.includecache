@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/mylib.h
+
+/home/luckytom/workspace/work_tom/study/programming/demo_linux/project/src/mylib.cpp
+mylib.h
+/home/luckytom/workspace/work_tom/study/programming/demo_linux/project/src/mylib.h
+iostream
+-
+

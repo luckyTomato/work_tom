@@ -1,0 +1,7 @@
+/home/luckytom/workspace/work_tom/study/programming/demo_linux/project/build/CMakeFiles/install/strip.dir
+/home/luckytom/workspace/work_tom/study/programming/demo_linux/project/build/CMakeFiles/install/local.dir
+/home/luckytom/workspace/work_tom/study/programming/demo_linux/project/build/CMakeFiles/edit_cache.dir
+/home/luckytom/workspace/work_tom/study/programming/demo_linux/project/build/CMakeFiles/install.dir
+/home/luckytom/workspace/work_tom/study/programming/demo_linux/project/build/CMakeFiles/list_install_components.dir
+/home/luckytom/workspace/work_tom/study/programming/demo_linux/project/build/CMakeFiles/rebuild_cache.dir
+/home/luckytom/workspace/work_tom/study/programming/demo_linux/project/build/CMakeFiles/mylib.dir
