@@ -1,14 +1,18 @@
-# 一级目录1 Heading
-some text
+# Level 1 heading
+
+## Level 2 heading
+
+### Level 3 heading
 
 Text is *斜体 italier*
-
+Text is **bold**
+Text is ***bold italier***
 Text is ~~划线 crossed off~~
-
 Text is ==加亮 hightlight==
 
-X<sup>2</sup>
+> reference
 
+X<sup>2</sup>
 H<sub>2</sub>O
 
 
