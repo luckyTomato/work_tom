@@ -5,8 +5,11 @@
 ### Level 3 heading
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <br/>
+=======
+>>>>>>> 3796f354bda18ec72e9bd7740ded73351b43b323
 Text is *斜体 italier* <br/>
 Text is **bold**  <br/>
 Text is ***bold italier***  <br/>
