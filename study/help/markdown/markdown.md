@@ -4,17 +4,21 @@
 
 ### Level 3 heading
 
+<<<<<<< HEAD
+
+<br/>
 Text is *斜体 italier* <br/>
 Text is **bold**  <br/>
 Text is ***bold italier***  <br/>
 Text is ~~划线 crossed off~~  <br/>
 Text is ==加亮 hightlight==  <br/>
 
-<i>italier</i>
-<b>italier</b>
-<b><i>italier</i></b>
-<del>italier</del>
-<highlight>ss</highlight>
+<br/>
+<i>italier</i> <br/>
+<b>italier</b> <br/>
+<b><i>italier</i></b> <br/>
+<del>italier</del> <br/>
+<highlight>ss</highlight> <br/>
 
 ### Level 3 heading
 
@@ -22,6 +26,16 @@ Text is ==加亮 hightlight==  <br/>
 
 > reference
 
+=======
+Text is *斜体 italier*
+Text is **bold**
+Text is ***bold italier***
+Text is ~~划线 crossed off~~
+Text is ==加亮 hightlight==
+
+> reference
+
+>>>>>>> cf8608f0b21e57e711d668c9eaceb8931da47d0d
 X<sup>2</sup>
 H<sub>2</sub>O
 
