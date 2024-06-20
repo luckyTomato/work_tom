@@ -4,6 +4,7 @@
 
 ### Level 3 heading
 
+<<<<<<< HEAD
 Text is *斜体 italier* <br/>
 Text is **bold**  <br/>
 Text is ***bold italier***  <br/>
@@ -22,6 +23,16 @@ Text is ==加亮 hightlight==  <br/>
 
 > reference
 
+=======
+Text is *斜体 italier*
+Text is **bold**
+Text is ***bold italier***
+Text is ~~划线 crossed off~~
+Text is ==加亮 hightlight==
+
+> reference
+
+>>>>>>> cf8608f0b21e57e711d668c9eaceb8931da47d0d
 X<sup>2</sup>
 H<sub>2</sub>O
 
