@@ -1,14 +1,28 @@
-# 一级目录1 Heading
-some text
+# Level 1 heading
 
-Text is *斜体 italier*
+## Level 2 heading
 
-Text is ~~划线 crossed off~~
+### Level 3 heading
 
-Text is ==加亮 hightlight==
+Text is *斜体 italier* <br/>
+Text is **bold**  <br/>
+Text is ***bold italier***  <br/>
+Text is ~~划线 crossed off~~  <br/>
+Text is ==加亮 hightlight==  <br/>
+
+<i>italier</i>
+<b>italier</b>
+<b><i>italier</i></b>
+<del>italier</del>
+<highlight>ss</highlight>
+
+### Level 3 heading
+
+
+
+> reference
 
 X<sup>2</sup>
-
 H<sub>2</sub>O
 
 
